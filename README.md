@@ -1,2 +1,2 @@
-# WebScrapping_with_Python
-Scrappe web pages to extract stock data
+# WebScraping_with_Python
+Scrape web pages to extract stock data
